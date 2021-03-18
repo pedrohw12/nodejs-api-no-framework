@@ -1,0 +1,12 @@
+{
+  "name": "for-forin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node 2.map.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
